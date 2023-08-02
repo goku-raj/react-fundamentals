@@ -1,8 +1,5 @@
 # React Fundamentals
 
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
 
 #### Folder Structure
 
